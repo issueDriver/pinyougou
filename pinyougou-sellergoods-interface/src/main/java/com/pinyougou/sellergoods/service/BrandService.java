@@ -29,5 +29,19 @@ public interface BrandService {
 	 * @param brand
 	 */
 	public void add(TbBrand brand);
+	/**
+	 * 修改品牌
+	 * @param brand
+	 */
+	public void update(TbBrand brand);
+	/**
+	 * 根据Id查询实体
+	 * @param id
+	 * @return
+	 */
+	
+	public TbBrand findOne(Long id);
+	
+
 
 }
