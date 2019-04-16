@@ -12,7 +12,7 @@
 	<dubbo:application name="pinyougou-sellergoods-service"/>  
 	<!-- 这里的2181是你要访问的端口 --><!-- 运行时这个zookeeper的地址需要改变 -->
     <dubbo:registry address="zookeeper://192.168.239.129:2181"/>
-    <dubbo:annotation package="com.pinyougou.sellergoods.service.impl" />  
+    <dubbo:annotation package="com.pinyougou.sellergoods.service.impl" />
    
    
 </beans>
