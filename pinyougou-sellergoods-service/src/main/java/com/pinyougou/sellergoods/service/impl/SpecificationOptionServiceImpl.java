@@ -14,7 +14,7 @@ import com.pinyougou.sellergoods.service.SpecificationOptionService;
 
 /**
  * 服务实现层
- * @author Administrator
+ * @author zuojie
  *
  */
 @Service

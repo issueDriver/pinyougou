@@ -12,7 +12,7 @@ import com.pinyougou.sellergoods.service.ItemCatService;
 
 /**
  * controller
- * @author Administrator
+ * @author zuojie
  *
  */
 @RestController

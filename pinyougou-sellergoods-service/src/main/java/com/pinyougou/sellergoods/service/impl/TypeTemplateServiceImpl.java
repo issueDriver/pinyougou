@@ -13,7 +13,7 @@ import com.pinyougou.sellergoods.service.TypeTemplateService;
 
 /**
  * 服务实现层
- * @author Administrator
+ * @author zuojie
  *
  */
 @Service

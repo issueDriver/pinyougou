@@ -12,7 +12,7 @@ import com.pinyougou.sellergoods.service.SpecificationService;
 
 /**
  * controller
- * @author Administrator
+ * @author zuojie
  *
  */
 @RestController

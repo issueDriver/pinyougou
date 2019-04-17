@@ -13,7 +13,7 @@ import com.pinyougou.sellergoods.service.GoodsDescService;
 
 /**
  * controller
- * @author Administrator
+ * @author zuojie
  *
  */
 @RestController

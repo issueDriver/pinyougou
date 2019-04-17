@@ -12,7 +12,7 @@ import com.pinyougou.pojo.TbItemCatExample.Criteria;
 import com.pinyougou.sellergoods.service.ItemCatService;
 /**
  * 服务实现层
- * @author Administrator
+ * @author zuojie
  *
  */
 @Service

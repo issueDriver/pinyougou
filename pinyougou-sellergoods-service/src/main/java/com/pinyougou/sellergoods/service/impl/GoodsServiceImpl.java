@@ -14,7 +14,7 @@ import com.pinyougou.sellergoods.service.GoodsService;
 
 /**
  * 服务实现层
- * @author Administrator
+ * @author zuojie
  *
  */
 @Service
